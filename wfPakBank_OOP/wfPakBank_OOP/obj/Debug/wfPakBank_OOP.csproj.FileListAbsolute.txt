@@ -1,0 +1,12 @@
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\bin\Debug\wfPakBank_OOP.exe.config
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\bin\Debug\wfPakBank_OOP.exe
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\bin\Debug\wfPakBank_OOP.pdb
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.frmAnaSayfa.resources
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.Properties.Resources.resources
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.csproj.GenerateResource.Cache
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.exe
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.pdb
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.frmHesapAcilisi.resources
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.frmHesapDokumu.resources
+C:\Users\student2\Documents\ERP-6\wfPakBank_OOP\wfPakBank_OOP\obj\Debug\wfPakBank_OOP.frmParaIslemleri.resources
